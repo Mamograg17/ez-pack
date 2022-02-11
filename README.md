@@ -1,6 +1,6 @@
 # ez-pack
 
-EZ-Pack is a Linux program that manage the packages for you, if you ha ve Arch -linux or a distro that is based on it, you can manage your packages easily , just clone the source code, complete the installation process, run the program and choose what you want to do, currently it's supporting only pacman, why not in adding other packages managers in the feature.
+EZ-Pack is a Linux program that manage the packages for you, if you ha ve Arch -linux or a distro that is based on it, you can manage your packages easily , just clone the source code, complete the installation process, run the program and choose what you want to do, currently it's supporting only pacman, why not adding other packages managers like apt in the feature.
 # Installation:
 ### For linux:
 ```bash
