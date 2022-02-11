@@ -23,8 +23,8 @@ int main() {
         if (current_place == "main menu") {
             cout << "                         What do you want to do :" << endl;
             cout << endl;
-            cout << "-1- install a program from the repository." << endl;
-            cout << "-2- install a package from the AUR.(coming soon)" << endl;
+            cout << "-1- Manage repository packages." << endl;
+            cout << "-2- Manage the AUR packages with the help of yay.(coming soon)" << endl;
             cout << "-3- exit." << endl;
             cout << "---------------------------------------------------------------------------------------------"
                  << endl;
