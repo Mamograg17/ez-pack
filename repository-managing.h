@@ -1,4 +1,4 @@
-/*the function apply repository choice will take the user choice
+/*the function apply choice will take the user choice
  * and apply it
  */
 #ifndef EASIER_PACKS_REPOSITORY_MANAGING_H

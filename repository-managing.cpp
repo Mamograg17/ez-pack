@@ -16,7 +16,7 @@ void apply_repository_choice(int input) {
         cout << "-->You want to install a package, please enter its name :";
         cin >> package_name;
         pacman_commands::install_Packages(package_name);
-        cout << "--->Woah, package installed, have a nice day." << endl;
+        cout << "--->Done, package installed, have a nice day." << endl;
     }
     else if(input == 2){
         cout << "-->You want to search for a package, please enter its name :" << endl;
