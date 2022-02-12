@@ -7,7 +7,7 @@ EZ-Pack is a Linux program that manage the packages for you, if you have Arch-li
 git clone https://github.com/Mamograg17/ez-pack
 cd Downloads
 cd ez-pack
-g++ main.cpp pacman-commands.cpp pacman-commands.h repository-managing.cpp repository-managing.h -o ez-pack
+g++ main.cpp pacman-commands.cpp pacman-commands.h repository-managing.cpp repository-managing.h yay-aur-managing.cpp yay-aur-managing.h -o ez-pack
 sudo cp -i ez-pack /usr/local/bin
 ```
 and that's it !!
