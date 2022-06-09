@@ -1,10 +1,3 @@
-/* This is a program that make managing your
- * packages easier, if you see "->" in a comment
- * that means that this is the begging of the comment
- * if you didn't see it that's mean it's following to the previous
- * comment
- * */
-
 #include <iostream> //import io
 #include <cstdlib> //import the system functions
 #include "pacman-commands.h" //import the commands class
